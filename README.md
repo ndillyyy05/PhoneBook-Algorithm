@@ -17,3 +17,10 @@ Add persistence- Extend the phonebook to allow to save contacts to disk for pers
 
 Conclusion:
 This phonebook algorithm provides a simple yet efficient solution to basic operations such as insert, search, delete and update while it allows further exploration for more advanced structures when necessary.
+
+Group Members:
+Selma NT Nghinamanu  224067818
+Jo-Lynn F Naftalie   224066064
+Juliette Kalabo      224100742
+Zenne-Lee Louw       224034987
+Barth Kitatshi       223133469

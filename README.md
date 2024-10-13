@@ -35,5 +35,5 @@ Zenne-Lee Louw       224034987
 
 Barth Kitatshi       223133469
 
-Section A: PhonebookApp.java, Pseudocode and Flowchart
+Section A: PhonebookApp, Pseudocode and Flowchart
 Section B: Program
